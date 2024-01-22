@@ -2,6 +2,9 @@
  Predicting, House Price using Azure ML Studio with Python scripting and using Azure Databricks Spark compute Cluster
 
 
+![many-models-machine-learning-azure](https://github.com/rbhardwaj2186/Azure_ML/assets/143745073/f4bf27c3-728e-4c0d-8c20-997018192d29)
+![many-models-machine-learning-azure](https://github.com/rbhardwaj2186/Azure_ML/assets/143745073/6053bf32-63bc-4f53-ab40-84e3a3dbe1f0)
+
 
 
 
