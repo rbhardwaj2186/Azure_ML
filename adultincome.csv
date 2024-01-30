@@ -7,7 +7,7 @@ age,workclass,fnlwgt,education,marital-status,occupation,relationship,race,sex,c
 37, Private,284582, Masters, Married-civ-spouse, Exec-managerial, Wife, White, Female,0,0,40, United-States, <=50K
 49, Private,160187, 9th, Married-spouse-absent, Other-service, Not-in-family, Black, Female,0,0,16, Jamaica, <=50K
 52, Self-emp-not-inc,209642, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,0,45, United-States, >50K
-31, Private,45781, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,14084,0,50, United-States, >50K
+31, Private,45782, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,14084,0,50, United-States, >50K
 42, Private,159449, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,5178,0,40, United-States, >50K
 37, Private,280464, Some-college, Married-civ-spouse, Exec-managerial, Husband, Black, Male,0,0,80, United-States, >50K
 30, State-gov,141297, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,0,0,40, India, >50K
